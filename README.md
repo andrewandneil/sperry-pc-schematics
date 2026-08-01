@@ -7,12 +7,16 @@ Please excuse how messy the schematic is! It was never intended to be easy to re
 
 Due to the chips having no unique identifiers I have had to create some, see the image in the root of the repo for the chip markings.
 
-I'd say I'm about 80% done. Most of the logic is there, it just needs tidying, making easier to read, and finishing laying out the bus paths.
+I'd say I'm about 90% done. Most of the logic is there, it just needs tidying, making easier to read, and finishing laying out the bus paths.
+
+The Motherboard has markings:
+- WESYIC
+- DC080041B
 
 # DC280182B Floppy Drive Controller
 I've also started to reverse engineer the floppy drive controller the machine came with. You'll find them in the folder DC280182B_FDC. Same principle with the chip markings apply; it doesn't have any so I've had to make some, check the root directory for an image with all the markings on it.
 
-It's got markings:
+The Floppy Drive Controller has markings:
 - WEFD10
 - DC280182B
 - "Flexible Disk"
