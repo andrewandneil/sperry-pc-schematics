@@ -427,15 +427,24 @@
         "filename": "DC280182B_FDC.kicad_sch",
         "name": "DC280182B_FDC",
         "uuid": "89d56bdd-75d2-4949-8d5d-5167839b7848"
+      },
+      {
+        "filename": "power.kicad_sch",
+        "name": "Power",
+        "uuid": "4cfff1a6-f4f9-4b14-9880-a4d378cdae2f"
       }
     ],
-    "used_designators": "R1,C1,Y1,U1",
+    "used_designators": "RN1,SW1,R1,C1,#PWR1-4,Y1,U1,U6-7,U9,U14,U19,U27-28",
     "variants": []
   },
   "sheets": [
     [
       "89d56bdd-75d2-4949-8d5d-5167839b7848",
       "DC280182B_FDC"
+    ],
+    [
+      "4cfff1a6-f4f9-4b14-9880-a4d378cdae2f",
+      "Power"
     ]
   ],
   "text_variables": {},
