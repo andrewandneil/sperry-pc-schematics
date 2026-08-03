@@ -434,7 +434,7 @@
         "uuid": "4cfff1a6-f4f9-4b14-9880-a4d378cdae2f"
       }
     ],
-    "used_designators": "RN1,SW1,R1,C1,#PWR1-4,Y1,U1,U6-7,U9,U14,U19,U27-28",
+    "used_designators": "BF7,BF11-12,BF14,U1,U6-7,U9,U14,U19,U27-28,Y1,#PWR1-10,C1,R1-2,R13,R20,JP1,SW1,RN1,L1,J1-2",
     "variants": []
   },
   "sheets": [
